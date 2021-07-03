@@ -1,4 +1,11 @@
 {
-  "context-menu": {},
-  "menu": {}
+  ".CodeMirror textarea": {
+    "up": "up"
+  },
+
+  ".editor-header-title-input input": {
+    "down": "down"
+  }
+
 }
+

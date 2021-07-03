@@ -1,4 +1,5 @@
-# focus on title by pressing f2 key
+# You can seamlessly come and go between title and body.
 
-Add a keyboard shortcut for focusing title and editor alternately.
-It works when you press f2 key.
+- When your cursor is at the top line of the body, you can go to title by pressing UP key.
+- When your cursor is at the title, you can go to the body by pressing DOWN key.
+
