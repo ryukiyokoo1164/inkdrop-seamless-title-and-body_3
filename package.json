@@ -1,7 +1,7 @@
 {
   "name": "seamless-title-and-text",
   "main": "./lib/seamless-title-and-text",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "You can seamlessly come and go between title and body.",
   "keywords": [],
   "repository": "https://github.com/ryukiyokoo1164/inkdrop-seamless-title-and-body_3",
