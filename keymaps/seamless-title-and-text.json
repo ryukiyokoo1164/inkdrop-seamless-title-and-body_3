@@ -1,10 +1,10 @@
 {
   ".CodeMirror textarea": {
-    "up": "up"
+    "up": "seamless-title:up"
   },
 
   ".editor-header-title-input input": {
-    "down": "down"
+    "down": "seamless-title:down"
   }
 
 }
